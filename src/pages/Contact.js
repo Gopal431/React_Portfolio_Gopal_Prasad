@@ -46,7 +46,7 @@ const Contact = () => {
           <div className="contact-data">
             <p>
               If you want to chat about a project — email me on
-              dipesh@malvia.com.
+              prasadgopal431@gmail.com.
             </p>
             <p>
               I can help designing a website, designing a new product, improving
@@ -55,24 +55,24 @@ const Contact = () => {
               your business.{" "}
             </p>
             <p>
-              Currently based in Wroclaw, Poland — available for remote-friendly
+              Currently based in Noida, India — available for remote-friendly
               work from December 2022.
             </p>
             <p>
               <ListGroup horizontal>
                 <ListGroup.Item>
-                  <a href="https://www.youtube.com/c/DipeshMalvia">Youtube </a>
+                  <a href="https://github.com/Gopal431">GitHub </a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://www.linkedin.com/in/dmalvia/">Linkedin</a>
+                  <a href="https://www.linkedin.com/in/gopal-prasad/">Linkedin</a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://www.instagram.com/dipeshmalvia/">
+                  <a href="https://www.instagram.com/prasadgopal431/">
                     Instagram
                   </a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://twitter.com/IMDmalvia">Twitter</a>
+                  <a href="https://twitter.com/gopalpr20009227">Twitter</a>
                 </ListGroup.Item>
               </ListGroup>
             </p>
